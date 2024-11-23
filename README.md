@@ -1,2 +1,1 @@
-# bookbot
-a static text analyzer for novels
+BookBot is my first project!
